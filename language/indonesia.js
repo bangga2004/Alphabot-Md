@@ -1283,7 +1283,7 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄
+├  𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄
 ├ Penyedia Module
 ╰❒ And All Support
 `
