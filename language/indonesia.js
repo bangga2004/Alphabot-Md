@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+saya 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -638,15 +638,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
+├ 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -656,46 +648,35 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ 」 ──*
 
-1. Jangan spam bot. 🙅
-Sanksi: *❎ WARN/SOFT BLOCK*
+*🎗️𝙅𝘽 𝙈𝙇𝘽𝘽 || 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄*
 
-2. Jangan telepon bot. ☎️
-Sanksi: *❎ SOFT BLOCK*
+⚠️𝑹𝑼𝑳𝑬𝑺
+*ᵈⁱˡᵃʳᵃⁿᵍ ˢʰᵃʳᵉ ᵖⁱˢʰⁱⁿᵍ*
+*ᵈⁱˡᵃʳᵃⁿᵍ ˢʰᵃʳᵉ ᵛⁱʳᵗᵉˣ*
+*ᵈⁱˡᵃʳᵃⁿᵍ ˢᵖᵃᵐ ᶜʰᵃᵗ*
+*ᵈⁱˡᵃʳᵃⁿᵍ ᵏⁱʳⁱᵐ ᵍᵃᵐᵇᵃʳ/ᵛⁱᵈⁱᵒ 18+*
 
-3. Jangan mengeksploitasi bot.😖
-Sanksi: *PERMANENT BLOCK*
+```💭 Kalau mau share link join GC aku yang ke 2 dan 3🤹‍♂️```
 
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
+𝗔𝗡𝗗𝗔 𝗦𝗢𝗣𝗔𝗡 𝗔𝗗𝗠𝗜𝗡 𝗦𝗘𝗚𝗔𝗡😊🙏
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
+🔖𝐖𝐀 𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐑𝐎𝐍 𝐒𝐓𝐎𝐑𝐄
+• wa.me/6282230397507
+• wa.me/62881036104475
 
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+*ʙᴏᴛ ᴏɴ sɪᴀᴘ ᴍᴇɴᴇᴍᴀɴɪ ɢᴀʙᴜᴛ ᴀɴᴅᴀ🤭*
+___________
 
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
-
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
-
-
-Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
-
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
-
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
-😖🙏
+🔖🇱 🇮 🇳 🇰  🇬 🇷 🇺 🇧 
+  CHAT ADMIN BIAR DI KASIH
+___________
+*𝚃𝙷𝙰𝙽𝙺𝚂 𝚈𝙰𝙽𝙶 𝚂𝚄𝙳𝙰𝙷 𝙼𝙰𝙼𝙿𝙸𝚁🥳*
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`Haii 𝗄𝖺𝗄 🤗
 	
-╭ 𝖭𝖺𝗆𝖺 :
-├ 𝖴𝗆𝗎𝗋 :
-├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
-├ 𝖠𝗌𝗄𝗈𝗍 :
+╭ JB MLBB || 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
@@ -705,8 +686,7 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Chat owner
 `
 }
 exports.tos = (ownernomer) => {
@@ -1303,15 +1283,7 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
+├ 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄
 ├ Penyedia Module
 ╰❒ And All Support
 `
