@@ -25,7 +25,7 @@ global.youtube = "BELUM BUAT YT :("
 global.github = "http://wa.me/6282230397507text=Bng+Mau+Order+BOT"
 global.ownernomer = "6282230397507" //nomor owner
 global.ownernomerr = "+6282230397507" // nmr owner
-global.thumbnail = "./image/somp.jpg" //foto bot ubah di folder image
+global.thumbnail = "./image/sompyo.jpg" //foto bot ubah di folder image
 global.donasi = "./image/donasii.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6282230397507","6282230397507","6282230397507"] //ganti agar fitur owner bisa di gunakan
