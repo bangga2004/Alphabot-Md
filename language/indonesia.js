@@ -638,7 +638,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
-├ 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄
+├ Baron Store
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -1283,7 +1283,7 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├  𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄
+├ Baron Store
 ├ Penyedia Module
 ╰❒ And All Support
 `
