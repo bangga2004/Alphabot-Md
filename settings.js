@@ -18,13 +18,13 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "BRIYAN BOT" //namabot
-global.ownername= "BRIYAN BOT ×፝֟͜×" //nama owner
+global.botname = " 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄" //namabot
+global.ownername= " 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄×፝֟͜×" //nama owner
 global.myweb ="https://chat.whatsapp.com/FfVZFz5kb761pp4Um7vO2M"
 global.youtube = "BELUM BUAT YT :("
 global.github = "http://wa.me/6282230397507text=Bng+Mau+Order+BOT"
-global.ownernomer = "6285870323483" //nomor owner
-global.ownernomerr = "+6285870323483" // nmr owner
+global.ownernomer = "6282230397507" //nomor owner
+global.ownernomerr = "+6282230397507" // nmr owner
 global.thumbnail = "./image/order.jpg" //foto bot ubah di folder image
 global.donasi = "./image/donasi1.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
