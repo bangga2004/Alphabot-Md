@@ -22,13 +22,13 @@ global.botname = " 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄" //namabot
 global.ownername= " 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄×፝֟͜×" //nama owner
 global.myweb ="https://chat.whatsapp.com/FfVZFz5kb761pp4Um7vO2M"
 global.youtube = "BELUM BUAT YT :("
-global.github = "http://wa.me/6282230397507text=Bng+Mau+Order+BOT"
-global.ownernomer = "6282230397507" //nomor owner
-global.ownernomerr = "+6282230397507" // nmr owner
+global.github = "http://wa.me/6281914806147text=Bng+Mau+Order+BOT"
+global.ownernomer = "6281914806147" //nomor owner
+global.ownernomerr = "+6281914806147" // nmr owner
 global.thumbnail = "./image/sompyo1.jpg" //foto bot ubah di folder image
 global.donasi = "./image/donasi1.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282230397507","6282230397507","6282230397507"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6281914806147","6281914806147","6281914806147"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄' //sticker wm
 global.author = 'Di Buat Oleh 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄' //sticker wm
 global.sessionName = 'session'
