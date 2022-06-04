@@ -18,19 +18,19 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = " 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄" //namabot
-global.ownername= " 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄×፝֟͜×" //nama owner
-global.myweb ="https://chat.whatsapp.com/FfVZFz5kb761pp4Um7vO2M"
+global.botname = " ResyaBotZz" //namabot
+global.ownername= " ResyaBotZz×፝֟͜×" //nama owner
+global.myweb ="https://www.instagram.com/resyagans19"
 global.youtube = "BELUM BUAT YT :("
-global.github = "http://wa.me/6281914806147text=Bng+Mau+Order+BOT"
-global.ownernomer = "6281914806147" //nomor owner
-global.ownernomerr = "+6281914806147" // nmr owner
-global.thumbnail = "./image/sompyo1.jpg" //foto bot ubah di folder image
-global.donasi = "./image/donasi1.jpg"
+global.github = "http://wa.me/6289684271435text=Bng+Mau+Order+BOT"
+global.ownernomer = "6289684271435" //nomor owner
+global.ownernomerr = "+6289684271435" // nmr owner
+global.thumbnail = "./image/resya.jpg" //foto bot ubah di folder image
+global.donasi = "./image/sedekah.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6281914806147","6281914806147","6281914806147"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄' //sticker wm
-global.author = 'Di Buat Oleh 𝘽𝘼𝙍𝙊𝙉 𝙎𝙏𝙊𝙍𝙀᭄' //sticker wm
+global.owner = ["6289684271435","6289684271435","6289684271435"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© ResyaBotZz' //sticker wm
+global.author = 'Di Buat Oleh ResyaBotZz' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
