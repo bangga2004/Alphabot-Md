@@ -83,7 +83,7 @@ exports.notNum = (q) => {
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu ResyaBotZz :*
 
 ╭─❒ 「 Bot Info 」 ❒
 ├ ${prefix}owner
@@ -191,20 +191,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}dance
 ╰❒ ${prefix}cringe
 
-
-╭─❒ 「 TqTo 」 ❒
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
-╰❒ And All Support
-
     `
 }
 
@@ -224,11 +210,8 @@ Sanksi: *PERMANENT BLOCK*
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
-
 🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+➡️ Kalau mau menambahkan bot, harus sewa.
 
 🗯️ Prefixnya apa ya?
 ➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
@@ -239,21 +222,12 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
-
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
-😖🙏
+⚠️ Segala kebijakan dan ketentuan ResyaBotZz di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 `
 }
 exports.source = () =>{
 return`*── 「 SOURCE 」 ──*
-
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/zeeoneofc/Alphabot-Md
-
-Untuk tutorial penginstalan kalian bisa tonton
-video terbaru di playlist ini.
-https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Hayoo om, mau ngapain omm
 `
 }
 exports.tos = (ownernomer) => {
@@ -262,7 +236,7 @@ exports.tos = (ownernomer) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 6289684271435 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
